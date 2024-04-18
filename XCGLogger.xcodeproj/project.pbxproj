@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		433116222BD17BDB00974D22 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 433116212BD17BD100974D22 /* PrivacyInfo.xcprivacy */; };
+		433116232BD17BDC00974D22 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 433116212BD17BD100974D22 /* PrivacyInfo.xcprivacy */; };
+		433116242BD17BDC00974D22 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 433116212BD17BD100974D22 /* PrivacyInfo.xcprivacy */; };
+		433116252BD17BDD00974D22 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 433116212BD17BD100974D22 /* PrivacyInfo.xcprivacy */; };
 		5501A3841D761F9A00CB8ABE /* BaseDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5501A3831D761F9A00CB8ABE /* BaseDestination.swift */; };
 		5501A3851D761F9A00CB8ABE /* BaseDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5501A3831D761F9A00CB8ABE /* BaseDestination.swift */; };
 		5501A3861D761F9A00CB8ABE /* BaseDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5501A3831D761F9A00CB8ABE /* BaseDestination.swift */; };
@@ -185,6 +189,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		433116212BD17BD100974D22 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		5501A3831D761F9A00CB8ABE /* BaseDestination.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseDestination.swift; sourceTree = "<group>"; };
 		5501A3881D7624B900CB8ABE /* DestinationProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DestinationProtocol.swift; sourceTree = "<group>"; };
 		5501A38D1D76250600CB8ABE /* ConsoleDestination.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConsoleDestination.swift; sourceTree = "<group>"; };
@@ -439,6 +444,7 @@
 		55E3EE3B19D76F280068C3A7 = {
 			isa = PBXGroup;
 			children = (
+				433116212BD17BD100974D22 /* PrivacyInfo.xcprivacy */,
 				55E3EE4719D76F280068C3A7 /* XCGLogger */,
 				55E3EE5419D76F280068C3A7 /* XCGLoggerTests */,
 				7573B4BF1DE4146300726CE1 /* ObjcExceptionBridging */,
@@ -903,6 +909,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				433116252BD17BDD00974D22 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -910,6 +917,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				433116232BD17BDC00974D22 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -938,6 +946,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				433116222BD17BDB00974D22 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -952,6 +961,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				433116242BD17BDC00974D22 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
